@@ -11,8 +11,8 @@ The following data has been obtained from "https://data.gov.in" and plotted usin
 ![Bar Plot](https://github.com/thivinanandh/repo_ds_200/blob/master/bar.png)
 
 > Scatter Plot - 
-![Scatter Plot](https://github.com/thivinanandh/repo_ds_200/blob/master/scatter.py)
+![Scatter Plot](https://github.com/thivinanandh/repo_ds_200/blob/master/scatter.png)
 
 >Box PLot -
-![Box Plot](https://github.com/thivinanandh/repo_ds_200/blob/master/scatter.py)
+![Box Plot](https://github.com/thivinanandh/repo_ds_200/blob/master/box.png)
 
