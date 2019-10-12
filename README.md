@@ -10,9 +10,9 @@ The following data has been obtained from "https://data.gov.in" and plotted usin
 > BAR PLOT - Average Annual Rainfall in Southern Penninsula of India Dueing the year 2002 to 2016
 ![Bar Plot](https://github.com/thivinanandh/repo_ds_200/blob/master/bar.png)
 
-> Scatter Plot - <>
+> Scatter Plot - Average Rainfall 
 ![Scatter Plot](https://github.com/thivinanandh/repo_ds_200/blob/master/scatter.png)
 
->Box PLot - <>
+>Box PLot - variation of Rainfall levels
 ![Box Plot](https://github.com/thivinanandh/repo_ds_200/blob/master/box.png)
 
